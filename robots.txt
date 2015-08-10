@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lboopie2014.github.io/my-octopress/sitemap.xml 
